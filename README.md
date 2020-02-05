@@ -1,4 +1,4 @@
-# Printed-Circuit-Boards
+# PCB Schematics and Layouts
 This Repository contains the schematic and layout files for all the PCBs designed at SRA for various competitions and workshops.
 
 - **Robocon PCBs 2016**  
